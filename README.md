@@ -1,4 +1,4 @@
-# CASL2-EXCEL
+# CASL2-EXCEL(casl2.xlsm)
 基本情報技術者試験で出題されるアセンブラ言語(CASL2)をExcel上で動かすシミュレータ。
 Excelがインストールされていれば
 - CASL2で書かれたプログラムの入力→文法チェック → 実行
@@ -15,7 +15,7 @@ Excelがインストールされていれば
  
 # DEMO
  
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+https://github.com/kktworks/CASL2-EXCEL/blob/main/CASL2-Excel.mp4
  
 # 特長
 CASL2初心者が迷う
@@ -66,5 +66,5 @@ CASL2初心者が迷う
 # サポート・問い合わせ
 
 質問、要望、その他何かありましたら、以下のどちらかでお願いします。
-* Issueを作成しAssigneeとする
+* Issueを作成しkktworksをAssigneeとする
 * kktworks@gmail.comへメール
