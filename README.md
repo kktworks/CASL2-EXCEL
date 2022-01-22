@@ -66,5 +66,5 @@ CASL2初心者が迷う
 # サポート・問い合わせ
 
 質問、要望、その他何かありましたら、以下のどちらかでお願いします。
-* Issueを作成しAssigneeとする
+* Issueを作成しkktworksをAssigneeとする
 * kktworks@gmail.comへメール
