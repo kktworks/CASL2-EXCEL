@@ -12,7 +12,10 @@ Excelがインストールされていれば
 	- step in/step over
 
 などが行えます。
- 
+
+> <p dir="auto">ダウンロード <g-emoji class="g-emoji" alias="arrow_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png">➡</g-emoji> <a href="https://github.com/kktworks/CASL2-EXCEL/releases">Releases</a></p>
+
+
 # DEMO
 ![CASL2-EXCEL_1](https://user-images.githubusercontent.com/74276189/150635588-0abfec8a-1573-49d7-90b7-43f45ac3c7fa.png)
 CASL2のコードをセルに入力(だってExcelですから...)→<b>[ASM]ボタン</b>押下でアセンブル実行
