@@ -14,8 +14,8 @@ Excelがインストールされていれば
 などが行えます。
  
 # DEMO
- 
-https://github.com/kktworks/CASL2-EXCEL/blob/main/CASL2-Excel.mp4
+↑
+CASL2-Excel.mp4をdownloadしてご覧ください。
  
 # 特長
 CASL2初心者が迷う
